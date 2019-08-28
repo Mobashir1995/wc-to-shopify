@@ -4,8 +4,8 @@ define("APP_URL", "https://1279a97b.ngrok.io/xampp/shopify/woocommerce-to-shopif
 define("AUTH_URL", "https://1279a97b.ngrok.io/xampp/shopify/woocommerce-to-shopify/auth.php");
 
 /*Config API */
-define("API_KEY", "b9bb25356923ab520d3488ca2f56aa9e");
-define("API_SECRET", "f0b198589912eabd500abd56326e0a3c");
+define("API_KEY", "");
+define("API_SECRET", "");
 
 /* Config Database */
 define("host", "localhost");
